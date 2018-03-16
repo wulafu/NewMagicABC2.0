@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary"
+    android:fitsSystemWindows="true"
+  >
+
+
+    <ImageView
+        android:layout_marginRight="@dimen/xdp_15"
+        android:id="@+id/iv_search"
+        android:layout_width="@dimen/xdp_38"
+        android:layout_height="@dimen/xdp_38"
+        android:layout_gravity="end|center_vertical"
+        android:transitionName="@string/message_transition_name"
+        android:src="@drawable/message" />
+
+    <RelativeLayout
+        android:id="@+id/rl_me"
+        android:layout_width="@dimen/xdp_108"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+
+        android:layout_marginLeft="@dimen/xdp_15"
+        android:layout_marginRight="@dimen/xdp_15">
+
+        <TextView
+            android:layout_width="@dimen/xdp_108"
+            android:layout_height="@dimen/xdp_30"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/xdp_5"
+            android:background="@drawable/btn_background_main"
+            />
+
+        <ImageView
+            android:id="@+id/iv_menu"
+            android:layout_width="@dimen/xdp_38"
+            android:layout_height="@dimen/xdp_38"
+            android:src="@drawable/iv_default"
+            android:transitionName="@string/me_transition_name"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/xdp_10"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/xdp_18"
+                android:layout_height="@dimen/xdp_18"
+                android:src="@drawable/gold"/>
+
+            <TextView
+                android:id="@+id/tv_fen"
+                android:textColor="#FFF9AB10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/xdp_5"
+                android:text="000"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</FrameLayout>

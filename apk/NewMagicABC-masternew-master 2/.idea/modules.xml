@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewMagicABC.iml" filepath="$PROJECT_DIR$/NewMagicABC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewMagicABC-master 2.iml" filepath="$PROJECT_DIR$/NewMagicABC-master 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewMagicABC-masternew-master 2.iml" filepath="$PROJECT_DIR$/NewMagicABC-masternew-master 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortcutBadger/ShortcutBadger.iml" filepath="$PROJECT_DIR$/ShortcutBadger/ShortcutBadger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fillblankview/fillblankview.iml" filepath="$PROJECT_DIR$/fillblankview/fillblankview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gvp/gvp.iml" filepath="$PROJECT_DIR$/gvp/gvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/richtextview/richtextview.iml" filepath="$PROJECT_DIR$/richtextview/richtextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharesdk/sharesdk.iml" filepath="$PROJECT_DIR$/sharesdk/sharesdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silicompressor/silicompressor.iml" filepath="$PROJECT_DIR$/silicompressor/silicompressor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxinglibrary/zxinglibrary.iml" filepath="$PROJECT_DIR$/zxinglibrary/zxinglibrary.iml" />
+    </modules>
+  </component>
+</project>
